@@ -86,9 +86,10 @@ function App(): JSX.Element {
           <Section title="Debug">
             <DebugInstructions />
           </Section>
-          <Section title="Learn More">
+          <Section title="Meet Saurabh">
             Hello! I am Saurabh Srivastava. I am your new React Native
-            Developer.
+            Developer. Besides making cross-platform mobile apps, I love to
+            travel, write, and listen to country music.
           </Section>
           <LearnMoreLinks />
         </View>
