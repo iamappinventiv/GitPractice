@@ -78,7 +78,7 @@ function App(): JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+            screen and then come back to .
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -87,7 +87,7 @@ function App(): JSX.Element {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            Read the docs to discover what to do next:
+            Read the docs to discover what to do next:hhj
           </Section>
           <LearnMoreLinks />
         </View>
