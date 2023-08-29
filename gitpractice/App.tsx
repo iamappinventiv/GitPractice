@@ -78,7 +78,7 @@ function App(): JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+            screen and then come back
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -87,7 +87,8 @@ function App(): JSX.Element {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            Read the docs to discover what to do next:
+            Hello! I am Saurabh Srivastava. I am your new React Native
+            Developer.
           </Section>
           <LearnMoreLinks />
         </View>
