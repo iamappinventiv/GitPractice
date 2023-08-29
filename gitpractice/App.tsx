@@ -77,7 +77,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> i have change the branch
+            Edit <Text style={styles.highlight}>App.tsx</Text> i have change the files
           </Section>
           // Danish
           <Section title="Step One">
