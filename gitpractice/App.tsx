@@ -26,7 +26,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 type SectionProps = PropsWithChildren<{
-  title: string;
+  title: string,
 }>;
 
 function Section({children, title}: SectionProps): JSX.Element {
@@ -77,8 +77,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back
+            Edit <Text style={styles.highlight}>App.tsx</Text> i have change the branch
           </Section>
           // Danish
           <Section title="Step One">
